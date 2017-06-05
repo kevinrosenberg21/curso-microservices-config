@@ -1,2 +1,3 @@
 ---
-lucky-word: irish
+wordConfig:
+  lucky-word: irish
